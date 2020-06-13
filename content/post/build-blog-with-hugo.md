@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
-draft: true
+title: "Build Blog With Hugo"
+date: 2020-06-13T19:24:44+07:00
+lastmod: 2020-06-13T19:24:44+07:00
+draft: false
 keywords: []
 description: ""
 tags: []
@@ -39,5 +39,5 @@ sequenceDiagrams:
   options: ""
 
 ---
-
+Hello, build blog with hugo
 <!--more-->

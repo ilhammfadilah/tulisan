@@ -1,13 +1,16 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
-draft: true
+title: "About"
+date: 2020-06-13T19:24:05+07:00
+lastmod: 2020-06-13T19:24:05+07:00
+draft: false
 keywords: []
 description: ""
 tags: []
 categories: []
 author: ""
+
+menu: "main"
+weight: 50
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -39,5 +42,14 @@ sequenceDiagrams:
   options: ""
 
 ---
+Hugo is a static site engine written in Go.
 
-<!--more-->
+
+It makes use of a variety of open source projects including:
+
+* [Cobra](https://github.com/spf13/cobra)
+* [Viper](https://github.com/spf13/viper)
+* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
+* [Cast](https://github.com/spf13/cast)
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
