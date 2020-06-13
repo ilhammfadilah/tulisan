@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ilhammfadilah.github.io/tulisan/sitemap.xml

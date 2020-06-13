@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="https://ilhammfadilah.github.io/tulisan/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/page/about/</loc>
+    <lastmod>2020-06-13T19:24:05+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/post/build-blog-with-hugo/</loc>
+    <lastmod>2020-06-13T19:24:44+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/</loc>
+    <lastmod>2020-06-13T19:24:44+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/post/</loc>
+    <lastmod>2020-06-13T19:24:44+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/page/</loc>
+    <lastmod>2020-06-13T19:24:05+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilhammfadilah.github.io/tulisan/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
