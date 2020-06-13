@@ -39,5 +39,5 @@ sequenceDiagrams:
   options: ""
 
 ---
-Hello, build blog with hugo
+Hello everyone finaly ican build blog with hugo and deploy to my github pages :D
 <!--more-->
