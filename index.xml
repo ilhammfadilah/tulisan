@@ -6,7 +6,7 @@
     <description>Recent content on Secarik tulisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2020 19:24:44 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 16:47:35 +0700</lastBuildDate>
     
 	<atom:link href="https://ilhammfadilah.github.io/tulisan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Menjadi Manusia</title>
+      <link>https://ilhammfadilah.github.io/tulisan/post/menjadi-manusia/</link>
+      <pubDate>Mon, 15 Jun 2020 16:47:35 +0700</pubDate>
+      
+      <guid>https://ilhammfadilah.github.io/tulisan/post/menjadi-manusia/</guid>
+      <description></description>
     </item>
     
     <item>
