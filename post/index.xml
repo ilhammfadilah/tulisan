@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Build Blog With Hugo</title>
-      <link>https://ilhammfadilah.github.io/tulisan/post/build-blog-with-hugo/</link>
-      <pubDate>Sat, 13 Jun 2020 19:24:44 +0700</pubDate>
-      
-      <guid>https://ilhammfadilah.github.io/tulisan/post/build-blog-with-hugo/</guid>
-      <description>&lt;p&gt;Hello everyone finaly ican build blog with hugo and deploy to my github pages :D&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
