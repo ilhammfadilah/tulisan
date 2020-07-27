@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Secarik tulisan</title>
-    <link>https://ilhammfadilah.github.io/tulisan/</link>
-    <description>Recent content on Secarik tulisan</description>
+    <title>blog on Secarik tulisan</title>
+    <link>https://ilhammfadilah.github.io/tulisan/categories/blog/</link>
+    <description>Recent content in blog on Secarik tulisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Jul 2020 13:27:02 +0700</lastBuildDate>
     
-	<atom:link href="https://ilhammfadilah.github.io/tulisan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ilhammfadilah.github.io/tulisan/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://ilhammfadilah.github.io/tulisan/page/about/</link>
-      <pubDate>Sat, 13 Jun 2020 19:24:05 +0700</pubDate>
-      
-      <guid>https://ilhammfadilah.github.io/tulisan/page/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
-    </item>
     
     <item>
       <title>Melampaui Batasan Diri</title>
